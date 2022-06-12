@@ -1,10 +1,12 @@
 h1{
     text-align: center;
     font-size: 40px;
-    color:rgb(196, 82, 40);
+    color:rgb(40, 90, 240);
 }
 h2{
-    color:rgb(200, 82, 40);
+    color:rgb(40, 90, 240);
+    text-align: center;
+    margin: 50px;
 }
 h3{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -26,4 +28,9 @@ body{
 .recipe-link:hover{
     font-size: 35px;
     color:rgb(0, 0, 0)
+}
+
+.menu-link:hover{
+    color:rgb(0, 0, 0);
+
 }
