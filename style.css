@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+    color:white;
+}
+h2{
+    color:white;
+}
+.recipe-link{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: wheat;
+    
+    
+}
+body{
+    background-color: rgb(40, 113, 196);
+}
+.recipe-link:hover{
+    font-size: 35px;
+    color:rgb(0, 0, 0)
+}
